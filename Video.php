@@ -1,5 +1,5 @@
 <?php
-namespace Chrise\Video;
+namespace Chrise;
 
 class Video
 {
